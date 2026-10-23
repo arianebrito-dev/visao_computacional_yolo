@@ -1,0 +1,6 @@
+Streamlit
+ultralytics
+Numpy
+cv2
+pyautogui
+pandas
