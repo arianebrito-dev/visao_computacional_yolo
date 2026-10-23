@@ -1,6 +1,6 @@
-Streamlit
+streamlit
 ultralytics
-Numpy
-cv2
+numpy
+opencv-python-headless
 pyautogui
 pandas
